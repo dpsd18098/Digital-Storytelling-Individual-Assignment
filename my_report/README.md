@@ -1,7 +1,7 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: Printezi Maria
-### University Registration Number: dpsd18098
+### First and Last Name: xxx
+### University Registration Number: dpsdxxx
 ### GitHub Personal Profile: xxx
 ### Digital-Storytelling-Individual-Assignment: xxx
 
